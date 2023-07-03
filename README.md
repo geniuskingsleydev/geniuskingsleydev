@@ -25,11 +25,11 @@
 
 <em>I'm always open to new opportunities and collaborations. Feel free to reach out to me via the following channels:</em>
 
-<a href="mailto:contact@geniuskingsley.dev" target="_blank"><img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=mail.ru&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/zer0szn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://geniuskingsley.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"></a>
-<a href="https://twitter.com/zer0szn4" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://discord.com/users/zer0szn" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a target="_blank" href="mailto:contact@geniuskingsley.dev"><img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=mail.ru&logoColor=white"></a>
+<a target="_blank" href="https://www.linkedin.com/in/zer0szn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a target="_blank" href="https://geniuskingsley.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"></a>
+<a target="_blank" href="https://twitter.com/zer0szn4"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a target="_blank" href="https://discord.com/users/zer0szn"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 <em>Let's connect and create something amazing together! ✨
 </em>
