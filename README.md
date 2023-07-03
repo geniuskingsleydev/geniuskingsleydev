@@ -17,8 +17,6 @@
 
 ## GitHub Stats
 
-## GitHub Stats
-
 ![GeniusKingsleyDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=geniuskingsleydev&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geniuskingsleydev&layout=compact&theme=radical)
